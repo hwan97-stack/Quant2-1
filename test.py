@@ -1,1 +1,2 @@
-123
+word = 'test'
+print(word)
