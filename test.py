@@ -1,1 +1,2 @@
-print('test')
+word = 'test'
+print(word)
